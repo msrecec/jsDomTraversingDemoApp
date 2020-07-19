@@ -39,6 +39,7 @@ const renderNewMovieElement = (movie) => {
 };
 */
 
+//both of these work !
 const renderNewMovieElement = (movie) => {
   const newMovieElement = document.createElement('li');
   newMovieElement.setAttribute('id', movie.id);
