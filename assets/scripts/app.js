@@ -21,6 +21,7 @@ const addEntryText = () => {
   entryText.style.display = 'block';
 };
 
+//one more comment
 //new feature test comment
 /*
 const renderNewMovieElement = (movie) => {
